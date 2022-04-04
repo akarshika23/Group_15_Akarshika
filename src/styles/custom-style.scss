@@ -1,0 +1,68 @@
+@import "~bootstrap/scss/bootstrap";
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card, .card-img, .card-img-top {
+  border-radius: 10px !important;
+  overflow: hidden;
+}
+
+.row{
+  margin: 0 auto;
+  width: 900px;
+}
+
+.btn-primary{
+  margin-top: 30px;
+  margin-left: 250px;
+}
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  
+  align-items: center;
+  color: #666;
+  justify-content: space-between;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: #555;
+}
+
+.col-lg-6{
+  padding-left: 0.5px;
+}
+
+.medi-pic{
+width:500px;
+margin-right: 60px;
+
+}
+
+.medi-container{
+display: flex;
+margin:100px;
+justify-content: space-between;
+}
+
+.medi-text{
+width:700px;
+text-align: justify;
+
+}
