@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 const Footer = () => {
   return (
-    <section className="bg-dark">
+    <section className="block2">
       <footer className="container py-5">
         <div className="row">
           <div className="col-2">

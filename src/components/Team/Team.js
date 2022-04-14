@@ -1,35 +1,41 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Facebook, Instagram, Linkedin } from "react-bootstrap-icons"
+import { Github, Instagram, Linkedin } from "react-bootstrap-icons"
 import Image from "../Images/Images"
-
+ 
 const Items = [
   {
-    name: "member1",
-    facebook: "https://www.facebook.com",
+    name: "Akarshika",
+    github: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member2",
-    facebook: "https://www.facebook.com",
+    name: "Anjali Mishra",
+    github: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member3",
-    facebook: "https://www.facebook.com",
+    name: "Krity Kumari",
+    github: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
   {
-    name: "member4",
-    facebook: "https://www.facebook.com",
+    name: "Shubhangini",
+    github: "https://www.facebook.com",
+    instagram: "https://www.instagram.com",
+    linkedin: "https://www.linkedin.com",
+  },
+  {
+    name: "Vaishnavi",
+    github: "https://www.facebook.com",
     instagram: "https://www.instagram.com",
     linkedin: "https://www.linkedin.com",
   },
 ]
-
+ 
 const Team = () => {
   return (
     <div className="container text-center py-5">
@@ -37,7 +43,7 @@ const Team = () => {
       <div className="row justify-content-center py-5">
         {Items.map((item, i) => {
           return (
-            <div key={i} className="col-lg-3 col-md-6 col-sm-12">
+            <div key={i} className="col-lg-4 col-md-6 col-sm-12">
               <div className="card card-body shadow mb-4">
                 <Image
                   className="d-block mx-lg-auto img-fluid"
@@ -47,14 +53,14 @@ const Team = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename={`${item.name}.jpg`}
+                  filename={`${item.name}.jpeg`}
                   alt="1"
                 />
                 <h3 className="m-2">{item.name}</h3>
-
+ 
                 <ul className="list-unstyled justify-content-center d-flex mb-0">
-                  <Link className="m-3" to={item.facebook}>
-                    <Facebook />
+                  <Link className="m-3" to={item.github}>
+                    <Github />
                   </Link>
                   <Link className="m-3" to={item.instagram}>
                     <Instagram />
@@ -71,5 +77,5 @@ const Team = () => {
     </div>
   )
 }
-
+ 
 export default Team

@@ -30,7 +30,7 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <div className="container py-5">
-        <h2 className="pb-2 border-bottom text-center">Blog Posts</h2>
+        <h2 className="pb-2 border-bottom text-center">Recent Reasearch</h2>
         <div className="row justify-content-center py-5">
           {data.allMdx.edges.map((edge, i) => {
             return (

@@ -1,47 +1,27 @@
 ---
-title: "This is a title of THIRD Blog Post "
-date: "02-03-2022"
-author: "member3"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+title: "Study finds a consistent temporal association between mask use and COVID-19 vaccination status"
+date: "13th April,2022"
+author: "krity"
+description: "Before the coronavirus disease 2019 (COVID-19) pandemic, the effectiveness of mask-wearing in preventing the spread of pathogenic respiratory infections was debatable due to a lack of reliable evidence. "
 image: "blog3.jpg"
 ---
+<i>Before the coronavirus disease 2019 (COVID-19) pandemic, the effectiveness of mask-wearing in preventing the spread of pathogenic respiratory infections was debatable due to a lack of reliable evidence.</i> The scientific data on the effectiveness of mask-wearing has grown during the pandemic. Data currently shows that wearing a mask in public spaces is an effective nonpharmacologic strategy for reducing the transmission of this virus, particularly as source control to limit the spread from infected people.
 
-# What is Lorem Ipsum?
+There has been little data on mask use rates over time based on COVID-19 vaccination status. In a recent study posted on the medRxiv* preprint server, both vaccinated and unvaccinated participants from the COVID-19 Community Research Partnership (CRP) had their mask-wearing habits evaluated.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# About the study
+The CRP study was carried out from April 2020 to June 2021 and is a prospective, multi-site cohort syndromic COVID-19 surveillance study of participants from ten healthcare settings in the mid-Atlantic and south-eastern USA. Participants were contacted via email or text and provided with surveys regarding their exposure to COVID-19, any COVID-19-related symptoms, and mask use. “Yes,” “No,” or “No interactions” were used to report the participant’s mask use.
 
-## Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+The study inclusion criteria consisted of: 18 years or older, enrolled by December 2020, and daily surveys needed to be completed ≥ 5 times a month. In this study, for a participant to be considered vaccinated, they needed to have received at least one dose of vaccine by August 31st, 2021.
 
+# Findings
+With participants who reported receiving a COVID-19 vaccine, the use of masks throughout non-household encounters was more frequent when compared to those who did not report receiving a vaccine. These results show that the use of masks has changed during the study period, maybe because of the narrative from public health services. The significant drop in May corresponded with revised guidelines on the use of masks for fully vaccinated individuals, despite a previous progressive fall in mask use.
 
-# Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+However, a similar decline in the use of masks was also seen in the unvaccinated cohort, showing that this group also relaxed their use of masks, despite the increased risk of infection. Greater transmission linked with the Delta variant and revised guidelines on mask usage in indoor and public places coincided with an upsurge in mask use beginning in late July, which was more prominent in vaccinated persons.
 
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
+Over a nine-month period, the authors collected prospective data from a large number of geographically diverse participants. However, recruitment, reporting, and response biases restrict these findings as a representation of the population as a whole. This may also reflect the difference in vaccination uptake when the participants are compared to the population as a whole (95% vs. 75%).
 
-# discovered the undoubtable source
+These findings show a similar temporal relationship between the wearing of masks and the uptake of vaccination. The participants reported encounters outside the household at a stable rate, which indicates that the views on wearing a mask in this situation changed independently. During weekends and holidays, the use of masks declined for all but was still greater among the vaccinated participants.
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
-
-```
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-# Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-
-### Heading
-
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
+# Implications
+When compared to vaccinated participants, those who were unvaccinated consistently reported reduced rates of mask-wearing while engaging in non-household interactions. There was a substantial decrease in the wearing of masks observed in May, which later increased in July 2021, which coincided with a change in the public health guidance, suggesting a relationship between these two factors. These results highlight the importance of improving the messages and initiatives proposed by public health organizations to encourage and support preventative strategies in the continuing threat of COVID-19
